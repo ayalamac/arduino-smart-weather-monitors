@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = 'worker.ino.hex'
+elf = 'worker.ino.elf'
+rfc2217ServerPort = 4001
